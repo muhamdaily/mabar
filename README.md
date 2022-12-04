@@ -16,7 +16,7 @@
 
 </span>
 
-[![Stisla Preview](https://raw.githubusercontent.com/muhammedia/mabar/main/image/home.png)](https://anteiku.tech/)
+[![Mabar Preview](https://raw.githubusercontent.com/muhammedia/mabar/main/image/home.png)](https://anteiku.tech/)
 
 <br>
 
