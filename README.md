@@ -12,11 +12,11 @@
 
 [![](https://img.shields.io/badge/Berikan-Apresiasi-red)](https://trakteer.id/anteikudevs?quantity=1)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/muhammedia/mabar/blob/main/LICENSE)
-[![](https://img.shields.io/badge/Developer%20by-Muham-purple)](https://anteiku.tech/)
+[![](https://img.shields.io/badge/Developer%20by-Muham-purple)](https://muhampedia.tech/)
 
 </span>
 
-[![Mabar Preview](https://raw.githubusercontent.com/muhammedia/mabar/main/image/home.png)](https://anteiku.tech/)
+[![Mabar Preview](https://raw.githubusercontent.com/muhammedia/mabar/main/image/home.png)](https://muhampedia.tech/)
 
 <br>
 
